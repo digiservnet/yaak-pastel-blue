@@ -1,5 +1,7 @@
 {
-  "name": "pastel-blue",
+  "name": "@digiservnet/pastel-blue",
+  "description": "Pastel Blue theme for Yaak based on Cloudy Blue theme by Chris Synco for Jetbrains IDEs.",
+  "displayName": "Pastel Blue",
   "private": true,
   "version": "1.0.0",
   "scripts": {
