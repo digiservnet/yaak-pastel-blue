@@ -4,6 +4,10 @@
   "displayName": "Pastel Blue",
   "private": true,
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digiservnet/pastel-blue.git"
+  },
   "scripts": {
     "build": "yaakcli build"
   },
