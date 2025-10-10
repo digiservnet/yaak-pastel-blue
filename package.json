@@ -3,10 +3,10 @@
   "description": "Pastel Blue theme for Yaak based on Cloudy Blue theme by Chris Synco for Jetbrains IDEs.",
   "displayName": "Pastel Blue Theme",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/digiservnet/pastel-blue.git"
+    "url": "https://github.com/digiservnet/yaak-pastel-blue.git"
   },
   "scripts": {
     "build": "yaakcli build"
