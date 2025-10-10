@@ -12,15 +12,15 @@ export const plugin: PluginDefinition = {
                 text: 'hsl(240, 7%, 11%)',
                 textSubtle: 'hsl(0, 0%, 15%)',
                 textSubtlest: 'hsl(0, 0%, 30%)',
-                border: 'hsl(212, 100%, 38%)',
-                borderSubtle: 'hsl(222, 100%, 84%)',
-                primary: 'hsl(212, 100%, 38%)',
-                secondary: 'hsl(244, 100%, 63%)',
-                info: 'hsl(236, 90%, 61%)',
+                border: 'hsl(225, 100%, 92%)',
+                borderSubtle: 'hsl(234, 100%, 92%)',
+                primary: 'hsl(236, 90%, 61%)',
+                secondary: 'hsl(212, 100%, 37%)',
+                info: 'hsl(236, 58%, 42%)',
                 success: 'hsl(160, 100%, 31%)',
-                notice: 'hsl(263, 92%, 46%)',
-                warning: 'hsl(41, 95%, 74%)',
-                danger: 'hsl(18, 67%, 54%)'
+                notice: 'hsl(18, 67%, 54%)',
+                warning: 'hsl(294, 100%, 28%)',
+                danger: 'hsl(326, 90%, 61%)'
             },
             components: {
                 sidebar: {
@@ -33,8 +33,8 @@ export const plugin: PluginDefinition = {
                     border: 'hsl(215, 100%, 14%)',
                 },
                 templateTag: {
-                    surface: 'hsl(212, 100%, 38%)',
-                    text: 'hsl(0, 0%, 100%)',
+                    surface: 'hsl(210, 100%, 91%)',
+                    text: 'hsl(212, 100%, 37%)',
                 },
                 toast: {
                     surface: 'hsl(231, 100%, 97%)',
